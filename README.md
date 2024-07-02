@@ -35,7 +35,20 @@ Develop a basic To-Do application using ReactJS that allows users to add, view, 
 - Add the capability to mark tasks as completed without deleting them. This could involve toggling the task's state and styling.
 - Implement persistent storage (e.g., saving tasks to local storage) so that tasks are not lost on page reload.
 
-Deployement Link :- 
+Deployement Link :- https://react-todo-app-chi-steel.vercel.app/
+
+- Screenshots:-
+- Add Task :- 
+  ![Screenshot (684)](https://github.com/sachindolase/react-todo-app/assets/125812863/4550b99e-bd65-457c-9a3b-b268a2aacb28)
+- Edit view Task :- 
+  ![Screenshot (685)](https://github.com/sachindolase/react-todo-app/assets/125812863/fe8785db-1498-40bf-9471-484acf2b0f4a)
+- Edit Task Save :- 
+  ![Screenshot (686)](https://github.com/sachindolase/react-todo-app/assets/125812863/13bbd933-912e-41d4-bcb8-1b2ca0798a94)
+- Delete any task :-
+  ![Screenshot (687)](https://github.com/sachindolase/react-todo-app/assets/125812863/5ccb11b9-bc24-4348-afd2-d28f0abb6957)
+
+- Thanku...
+
 
 
 
