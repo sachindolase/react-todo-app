@@ -1,3 +1,63 @@
+# QuadB Tech Frontend Developement(React.js) Assessment
+
+# Task Title: Build a Simple React To-Do Application
+
+# Objective: 
+Develop a basic To-Do application using ReactJS that allows users to add, view, and delete tasks. This application should showcase your understanding of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
+
+# Requirements:
+
+1) Frontend Development:
+- Utilize HTML to structure the application's layout.
+- Use CSS for styling the application. Feel free to use CSS frameworks like Bootstrap or Material-UI for design components.
+- Implement the application logic using JavaScript (ES6 or later).
+
+2) React Components:
+- Develop the application using functional components and demonstrate the use of React hooks (e.g., `useState`, `useEffect`).
+- The application should have at least two components:    
+- TaskInput: A component for adding a new task.
+- TaskList: A component for displaying the list of tasks.
+
+3) State Management:  
+- Use Redux to manage the application's state. This includes storing the tasks and updating the state when adding or removing tasks.
+- Implement actions and reducers to handle the state logic.
+
+
+4) Functionality:
+- Add Task: Users should be able to input a task into a text field and add it to the list by pressing a button or pressing Enter.
+- View Tasks: Display all added tasks in a list format.
+- Delete Task: Each task should have a delete button that, when clicked, removes the task from the list.
+
+
+5) Edit Task: Each task should have an edit button that, when clicked, task popup opens from the list.
+
+6) Bonus (Optional):
+- Add the capability to mark tasks as completed without deleting them. This could involve toggling the task's state and styling.
+- Implement persistent storage (e.g., saving tasks to local storage) so that tasks are not lost on page reload.
+
+Deployement Link :- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,40 +91,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
